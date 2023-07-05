@@ -1,1 +1,3 @@
 # COMPUTATIONAL-ENGINEERING-MECHANICS-1-End-Sem-Project
+
+![image](https://github.com/Siddhartha80/COMPUTATIONAL-ENGINEERING-MECHANICS-1-End-Sem-Project/assets/133953774/dc858bfc-7952-4c96-8c81-d91ed616da21)
