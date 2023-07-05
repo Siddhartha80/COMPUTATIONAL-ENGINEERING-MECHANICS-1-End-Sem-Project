@@ -1,0 +1,9 @@
+load = input('Enter the value for load: ');
+Uab = input('Enter the value for Uab: ');
+Uac = input('Enter the value for Uac: ');
+Ubd = input('Enter the value for Ubd: ');
+Frab=(300)/(-Ubd*Uab*cosd(15)+Ubd*sind(15)+Uab*sind(15)+cosd(15));
+Fsab=Uab*Frab;
+Frac=(Fsab*sind(15))+(Frab*cosd(15));
+Fsac=Uac*Frac;
+P=(Fsac+(Fsab*cosd(15))-(Frab*sind(15)))
