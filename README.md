@@ -6,4 +6,5 @@ HAC = 0.2, 0.4, 0.6
 UBD = 0.15, 0.3,0.45
 Load: 300N, 400 N, 500 N
 
-![image](https://github.com/Siddhartha80/COMPUTATIONAL-ENGINEERING-MECHANICS-1-End-Sem-Project/assets/133953774/dc858bfc-7952-4c96-8c81-d91ed616da21)
+
+![cem report](https://github.com/Siddhartha80/COMPUTATIONAL-ENGINEERING-MECHANICS-1-End-Sem-Project/assets/133953774/1eb281e0-f888-483f-bea5-1820455feacd)
