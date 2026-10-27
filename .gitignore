@@ -1,0 +1,6 @@
+*.asv
+*.autosave
+*.mex*
+*.slxc
+slprj/
+.DS_Store
