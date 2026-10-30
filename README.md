@@ -2,7 +2,6 @@
 
 End-semester project for **Computational Engineering Mechanics 1** (B.Tech in Computer Science Engineering, Artificial Intelligence, Amrita School of Engineering, Bangalore, 2022). The project finds the minimum force **P** needed to pull a bottom wedge out from under a loaded top wedge, solved by hand with free body diagrams and checked with a MATLAB implementation.
 
-**Team:** Nallabothula Vamsi, Nallamilli S H S P Surya Vardhan Reddy, and [Siddhartha Mettu](https://github.com/Siddhartha80).
 
 ## Problem
 
